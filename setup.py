@@ -15,6 +15,4 @@ setup(
     include_package_data=True,
     zip_safe=False,
     platforms='any',
-    package_data={'spam': ['robot.txt']},
-    py_modules=['bacon', 'spam', 'static']
 )
