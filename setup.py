@@ -11,7 +11,6 @@ setup(
     version='1.0.0',
     url='https://github.com/kuldeep3/my_blueprint_test',
     license='MIT',
-    python_requires='>=3.6',
     packages=find_packages(),
     include_package_data=True,
     zip_safe=False,
